@@ -54,7 +54,7 @@
     paymentPage.payAndConfirmOrder();
      : expected to submit the order with its payment ok
 
-    // 4. Once the order is placed we verify existence
+    //14. Once the order is placed we verify existence
     orderPlacedPage.verifyOrderPlacedPage();
      : expected to find a order placed message with details
 
