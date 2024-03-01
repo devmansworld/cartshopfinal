@@ -22,7 +22,7 @@
         : expected to fill up the form correctly with random generated data
         
     //6. The signup form 
-    signupPage.fillSignupForm(randomFirstName, randomLastName, randomEmail, randomPassword,       randomAddress, randomState, randomCity, randomZipcode, randomMobileNumber);
+    signupPage.fillSignupForm(randomFirstName, randomLastName, randomEmail, randomPassword,randomAddress, randomState,           randomCity, randomZipcode, randomMobileNumber);
        : expected this also generates random data to fill up the sign up form , then submit
 
     //7. Validation of account created
